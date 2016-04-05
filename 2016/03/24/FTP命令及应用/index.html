@@ -17,7 +17,7 @@
 
 随着智能手机越来越多的支持FTP的方式管理手机文件，在没有携带数据线时，使用FTP在电脑端管理手机文件很方便．">
 <meta property="og:image" content="http://ww3.sinaimg.cn/large/b8b708a7gw1f2louzy4p5j20k00zk3z6">
-<meta property="og:updated_time" content="2016-04-05T11:58:39.374Z">
+<meta property="og:updated_time" content="2016-04-05T12:03:05.766Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="FTP命令及应用">
 <meta name="twitter:description" content="FTP就是文件传输协议(File Transfer Protocol)的缩写，用于在Internet上控制文件的双向传输．
@@ -30,16 +30,14 @@
 
     
 
-    <link rel="stylesheet" href="/vendor/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="http://apps.bdimg.com/libs/fontawesome/4.0.3/css/font-awesome.min.css">
     <link rel="stylesheet" href="/vendor/open-sans/styles.css">
     <link rel="stylesheet" href="/vendor/source-code-pro/styles.css">
 
     <link rel="stylesheet" href="/css/style.css">
 
-    <script src="/vendor/jquery/2.1.3/jquery.min.js"></script>
+    <script src="http://apps.bdimg.com/libs/jquery/2.1.3/jquery.min.js"></script>
     
-    
-        <link rel="stylesheet" href="/vendor/fancybox/jquery.fancybox.css">
     
     
     
@@ -223,7 +221,7 @@ var _hmt = _hmt || [];
 <p>等待传输，结果如下<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">local: /tmp/image.jpg remote: tencent/QQfile_recv/IMGP9118.JPG</span><br><span class="line">200 PORT OK</span><br><span class="line">150 Sending file</span><br><span class="line">226 Transmission finished</span><br><span class="line">7930332 bytes received in 61.86 secs (125.2 kB/s)</span><br></pre></td></tr></table></figure></p>
 <p>如果需要将本地的文件上传到手机，可以使用put命令<br><code>put local-file [remote-file]</code></p>
 <p>例如需要将本地的pdf文件上传到UCdownload文件下<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">ftp&gt; put /home/brianyang/Desktop/django.pdf UCDownloads/django.pdf</span><br><span class="line">local: /home/brianyang/Desktop/django.pdf remote: UCDownloads/django.pdf</span><br><span class="line">200 PORT OK</span><br><span class="line">150 Data socket ready</span><br><span class="line">226 Transmission complete</span><br><span class="line">5634115 bytes sent in 31.94 secs (172.3 kB/s)</span><br></pre></td></tr></table></figure></p>
-<p>其他命令<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">mget 批量获取</span><br><span class="line">mput 批量上传</span><br><span class="line">open 连接FTP</span><br><span class="line">pwd 查看当前目录</span><br><span class="line">cd 进入文件</span><br><span class="line">bye 退出FTP</span><br></pre></td></tr></table></figure></p>
+<p>其他命令<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">mget 批量获取</span><br><span class="line">mput 批量上传</span><br><span class="line">open 连接FTP</span><br><span class="line"><span class="built_in">pwd</span> 查看当前目录</span><br><span class="line"><span class="built_in">cd</span> 进入文件</span><br><span class="line"><span class="built_in">bye</span> 退出FTP</span><br></pre></td></tr></table></figure></p>
 
         
         </div>
@@ -492,8 +490,6 @@ window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMin
 
 
 
-    
-        <script src="/vendor/fancybox/jquery.fancybox.pack.js"></script>
     
 
 

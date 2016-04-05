@@ -14,7 +14,7 @@ Redis支持pipeline来进行批量操作的请求，使用pipeline可以打包�
 <meta property="og:site_name" content="码农想种地">
 <meta property="og:description" content="介绍Redis是一种使用TCP协议的服务器/客户端模型，客户端发出请求后通常会阻塞等待服务器处理完成返回数据，当需要批量读写数据时，每个请求都需要在上一个请求结束后才可以发出，假设发送一次报文需要0.1s,那么发送并接受100条数据仅仅浪费在网络上的时间开销最少都有10020.1=20s.
 Redis支持pipeline来进行批量操作的请求，使用pipeline可以打包将多条命令从客户端发出，并不">
-<meta property="og:updated_time" content="2016-04-05T11:58:39.374Z">
+<meta property="og:updated_time" content="2016-04-05T12:03:05.762Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Redis使用pipeline批量操作提升性能">
 <meta name="twitter:description" content="介绍Redis是一种使用TCP协议的服务器/客户端模型，客户端发出请求后通常会阻塞等待服务器处理完成返回数据，当需要批量读写数据时，每个请求都需要在上一个请求结束后才可以发出，假设发送一次报文需要0.1s,那么发送并接受100条数据仅仅浪费在网络上的时间开销最少都有10020.1=20s.
@@ -25,16 +25,14 @@ Redis支持pipeline来进行批量操作的请求，使用pipeline可以打包�
 
     
 
-    <link rel="stylesheet" href="/vendor/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="http://apps.bdimg.com/libs/fontawesome/4.0.3/css/font-awesome.min.css">
     <link rel="stylesheet" href="/vendor/open-sans/styles.css">
     <link rel="stylesheet" href="/vendor/source-code-pro/styles.css">
 
     <link rel="stylesheet" href="/css/style.css">
 
-    <script src="/vendor/jquery/2.1.3/jquery.min.js"></script>
+    <script src="http://apps.bdimg.com/libs/jquery/2.1.3/jquery.min.js"></script>
     
-    
-        <link rel="stylesheet" href="/vendor/fancybox/jquery.fancybox.css">
     
     
     
@@ -481,8 +479,6 @@ window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMin
 
 
 
-    
-        <script src="/vendor/fancybox/jquery.fancybox.pack.js"></script>
     
 
 
