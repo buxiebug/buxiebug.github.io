@@ -4,7 +4,7 @@
   <url>
     <loc>http://trytofix.com/2016/07/07/Celery-Tornado-Supervisor%E6%9E%84%E5%BB%BA%E5%92%8C%E8%B0%90%E7%9A%84%E5%88%86%E5%B8%83%E5%BC%8F%E6%A1%86%E6%9E%B6/</loc>
     
-    <lastmod>2016-07-07T10:38:58.604Z</lastmod>
+    <lastmod>2016-07-07T10:40:01.184Z</lastmod>
     
   </url>
   
@@ -16,7 +16,7 @@
   </url>
   
   <url>
-    <loc>http://trytofix.com/2016/03/29/AngularJs-%E5%88%A0%E9%99%A4%E8%A1%A8%E6%A0%BC%E4%B8%AD%E7%9A%84%E8%AE%B0%E5%BD%95%E5%B9%B6%E6%9B%B4%E6%96%B0%E8%A7%86%E5%9B%BE/</loc>
+    <loc>http://trytofix.com/2016/03/22/jmeter%E4%BB%8Ecsv%E4%B8%AD%E8%AF%BB%E5%8F%96%E8%AF%B7%E6%B1%82%E5%8F%82%E6%95%B0/</loc>
     
     <lastmod>2016-05-16T07:18:51.804Z</lastmod>
     
@@ -38,6 +38,20 @@
   
   <url>
     <loc>http://trytofix.com/2016/01/18/Flask-Bootstrap-vue-js-MySQL%E9%A1%B9%E7%9B%AE%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98/</loc>
+    
+    <lastmod>2016-05-16T07:18:51.804Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://trytofix.com/2015/11/08/Flask-uwsgi-Nginx%E9%85%8D%E5%90%88%E4%BD%BF%E7%94%A8%E6%8F%90%E4%BE%9Bweb%E6%9C%8D%E5%8A%A1/</loc>
+    
+    <lastmod>2016-05-16T07:18:51.804Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://trytofix.com/2016/05/05/Flask%E4%B8%AD%E4%BD%BF%E7%94%A8%E8%A3%85%E9%A5%B0%E5%99%A8%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98AssertionError-View-function-mapping-is-overwriting-an-existing-endpoint-function/</loc>
     
     <lastmod>2016-05-16T07:18:51.804Z</lastmod>
     
@@ -184,14 +198,14 @@
   </url>
   
   <url>
-    <loc>http://trytofix.com/2015/12/04/Python%E8%8E%B7%E5%8F%96%E6%9F%90%E5%B9%B4%E6%9F%90%E6%9C%88%E7%9A%84%E6%80%BB%E5%A4%A9%E6%95%B0%E4%BB%A5%E5%8F%8A%E6%9C%88%E4%BB%BD%E7%9A%84%E7%AC%AC%E4%B8%80%E5%A4%A9%E6%98%AF%E6%98%9F%E6%9C%9F%E5%87%A0/</loc>
+    <loc>http://trytofix.com/2016/01/18/Python%E6%8B%BC%E6%8E%A5SQL%E6%97%B6%E5%8D%95%E5%BC%95%E5%8F%B7%EF%BC%8C%E5%8F%8C%E5%BC%95%E5%8F%B7%E9%97%AE%E9%A2%98/</loc>
     
     <lastmod>2016-05-16T07:18:51.804Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://trytofix.com/2016/01/18/Python%E6%8B%BC%E6%8E%A5SQL%E6%97%B6%E5%8D%95%E5%BC%95%E5%8F%B7%EF%BC%8C%E5%8F%8C%E5%BC%95%E5%8F%B7%E9%97%AE%E9%A2%98/</loc>
+    <loc>http://trytofix.com/2015/12/04/Python%E8%8E%B7%E5%8F%96%E6%9F%90%E5%B9%B4%E6%9F%90%E6%9C%88%E7%9A%84%E6%80%BB%E5%A4%A9%E6%95%B0%E4%BB%A5%E5%8F%8A%E6%9C%88%E4%BB%BD%E7%9A%84%E7%AC%AC%E4%B8%80%E5%A4%A9%E6%98%AF%E6%98%9F%E6%9C%9F%E5%87%A0/</loc>
     
     <lastmod>2016-05-16T07:18:51.804Z</lastmod>
     
@@ -205,6 +219,13 @@
   </url>
   
   <url>
+    <loc>http://trytofix.com/2015/11/06/SQLAlchemy%E5%AF%B9%E8%B1%A1%E4%BD%BF%E7%94%A8redis%E7%BC%93%E5%AD%98/</loc>
+    
+    <lastmod>2016-05-16T07:18:51.804Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://trytofix.com/2016/03/22/Redis%E4%BD%BF%E7%94%A8pipeline%E6%89%B9%E9%87%8F%E6%93%8D%E4%BD%9C/</loc>
     
     <lastmod>2016-05-16T07:18:51.804Z</lastmod>
@@ -212,21 +233,14 @@
   </url>
   
   <url>
-    <loc>http://trytofix.com/2015/11/08/Flask-uwsgi-Nginx%E9%85%8D%E5%90%88%E4%BD%BF%E7%94%A8%E6%8F%90%E4%BE%9Bweb%E6%9C%8D%E5%8A%A1/</loc>
+    <loc>http://trytofix.com/2016/01/05/Tomcat%E4%B8%ADGet%E8%AF%B7%E6%B1%82url%E5%8C%85%E5%90%AB%E4%B8%AD%E6%96%87%E6%97%B6%E4%B9%B1%E7%A0%81%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</loc>
     
     <lastmod>2016-05-16T07:18:51.804Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://trytofix.com/2016/05/05/Flask%E4%B8%AD%E4%BD%BF%E7%94%A8%E8%A3%85%E9%A5%B0%E5%99%A8%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98AssertionError-View-function-mapping-is-overwriting-an-existing-endpoint-function/</loc>
-    
-    <lastmod>2016-05-16T07:18:51.804Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://trytofix.com/2015/11/06/SQLAlchemy%E5%AF%B9%E8%B1%A1%E4%BD%BF%E7%94%A8redis%E7%BC%93%E5%AD%98/</loc>
+    <loc>http://trytofix.com/2016/03/22/angular-http%E8%AE%BE%E7%BD%AE%E8%B6%85%E6%97%B6/</loc>
     
     <lastmod>2016-05-16T07:18:51.804Z</lastmod>
     
@@ -240,14 +254,14 @@
   </url>
   
   <url>
-    <loc>http://trytofix.com/2016/05/05/gnome-screenshot-ubuntu-gnome%E6%88%AA%E5%9B%BE/</loc>
+    <loc>http://trytofix.com/2016/03/30/chattr%E5%92%8Clsattr%E5%BA%94%E7%94%A8/</loc>
     
     <lastmod>2016-05-16T07:18:51.804Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://trytofix.com/2016/03/30/chattr%E5%92%8Clsattr%E5%BA%94%E7%94%A8/</loc>
+    <loc>http://trytofix.com/2016/05/05/gnome-screenshot-ubuntu-gnome%E6%88%AA%E5%9B%BE/</loc>
     
     <lastmod>2016-05-16T07:18:51.804Z</lastmod>
     
@@ -275,7 +289,7 @@
   </url>
   
   <url>
-    <loc>http://trytofix.com/2016/03/22/jmeter%E4%BB%8Ecsv%E4%B8%AD%E8%AF%BB%E5%8F%96%E8%AF%B7%E6%B1%82%E5%8F%82%E6%95%B0/</loc>
+    <loc>http://trytofix.com/2016/03/29/AngularJs-%E5%88%A0%E9%99%A4%E8%A1%A8%E6%A0%BC%E4%B8%AD%E7%9A%84%E8%AE%B0%E5%BD%95%E5%B9%B6%E6%9B%B4%E6%96%B0%E8%A7%86%E5%9B%BE/</loc>
     
     <lastmod>2016-05-16T07:18:51.804Z</lastmod>
     
@@ -289,7 +303,7 @@
   </url>
   
   <url>
-    <loc>http://trytofix.com/2016/04/20/2016-04-20%E9%9A%8F%E6%89%8B%E8%AE%B0/</loc>
+    <loc>http://trytofix.com/2016/04/19/linux-top/</loc>
     
     <lastmod>2016-05-16T07:18:51.804Z</lastmod>
     
@@ -331,14 +345,7 @@
   </url>
   
   <url>
-    <loc>http://trytofix.com/2016/01/05/Tomcat%E4%B8%ADGet%E8%AF%B7%E6%B1%82url%E5%8C%85%E5%90%AB%E4%B8%AD%E6%96%87%E6%97%B6%E4%B9%B1%E7%A0%81%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</loc>
-    
-    <lastmod>2016-05-16T07:18:51.804Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://trytofix.com/2016/03/22/angular-http%E8%AE%BE%E7%BD%AE%E8%B6%85%E6%97%B6/</loc>
+    <loc>http://trytofix.com/2016/04/20/python-multiprocessing/</loc>
     
     <lastmod>2016-05-16T07:18:51.804Z</lastmod>
     
@@ -352,13 +359,6 @@
   </url>
   
   <url>
-    <loc>http://trytofix.com/2016/04/20/python-multiprocessing/</loc>
-    
-    <lastmod>2016-05-16T07:18:51.804Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://trytofix.com/2015/10/28/python%E4%B8%ADif-name-main-%E7%9A%84%E4%BD%9C%E7%94%A8/</loc>
     
     <lastmod>2016-05-16T07:18:51.804Z</lastmod>
@@ -366,14 +366,14 @@
   </url>
   
   <url>
-    <loc>http://trytofix.com/2016/01/26/python%E4%BD%BF%E7%94%A8optparse%E5%A4%84%E7%90%86%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%8F%82%E6%95%B0/</loc>
+    <loc>http://trytofix.com/2016/01/06/python%E4%B8%ADunicode%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AC%E4%B8%AD%E6%96%87/</loc>
     
     <lastmod>2016-05-16T07:18:51.804Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://trytofix.com/2016/01/06/python%E4%B8%ADunicode%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AC%E4%B8%AD%E6%96%87/</loc>
+    <loc>http://trytofix.com/2016/01/26/python%E4%BD%BF%E7%94%A8optparse%E5%A4%84%E7%90%86%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%8F%82%E6%95%B0/</loc>
     
     <lastmod>2016-05-16T07:18:51.804Z</lastmod>
     
@@ -457,7 +457,7 @@
   </url>
   
   <url>
-    <loc>http://trytofix.com/2016/04/19/linux-top/</loc>
+    <loc>http://trytofix.com/2016/04/20/2016-04-20%E9%9A%8F%E6%89%8B%E8%AE%B0/</loc>
     
     <lastmod>2016-05-16T07:18:51.804Z</lastmod>
     
@@ -471,14 +471,14 @@
   </url>
   
   <url>
-    <loc>http://trytofix.com/2016/03/22/vim%E6%93%8D%E4%BD%9C%E6%B1%87%E6%80%BB/</loc>
+    <loc>http://trytofix.com/2016/03/30/vim%E6%93%8D%E4%BD%9C%E5%A4%9A%E4%B8%AA%E6%96%87%E4%BB%B6/</loc>
     
     <lastmod>2016-05-16T07:18:51.804Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://trytofix.com/2016/03/30/vim%E6%93%8D%E4%BD%9C%E5%A4%9A%E4%B8%AA%E6%96%87%E4%BB%B6/</loc>
+    <loc>http://trytofix.com/2016/03/22/vim%E6%93%8D%E4%BD%9C%E6%B1%87%E6%80%BB/</loc>
     
     <lastmod>2016-05-16T07:18:51.804Z</lastmod>
     
@@ -492,14 +492,14 @@
   </url>
   
   <url>
-    <loc>http://trytofix.com/2016/01/06/%E4%BD%BF%E7%94%A8iconv%E5%AF%B9%E6%96%87%E4%BB%B6%E8%BF%9B%E8%A1%8C%E8%BD%AC%E7%A0%81/</loc>
+    <loc>http://trytofix.com/2016/01/07/%E4%BA%86%E8%A7%A3python%E7%9A%84with%E8%AF%AD%E5%8F%A5/</loc>
     
     <lastmod>2016-05-16T07:18:51.804Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://trytofix.com/2016/01/07/%E4%BA%86%E8%A7%A3python%E7%9A%84with%E8%AF%AD%E5%8F%A5/</loc>
+    <loc>http://trytofix.com/2016/01/06/%E4%BD%BF%E7%94%A8iconv%E5%AF%B9%E6%96%87%E4%BB%B6%E8%BF%9B%E8%A1%8C%E8%BD%AC%E7%A0%81/</loc>
     
     <lastmod>2016-05-16T07:18:51.804Z</lastmod>
     
